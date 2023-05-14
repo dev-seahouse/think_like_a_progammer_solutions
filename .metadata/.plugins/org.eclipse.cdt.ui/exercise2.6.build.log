@@ -1,0 +1,15 @@
+23:19:49 **** Incremental Build of configuration Debug for project exercise2.6 ****
+make all 
+Building file: ../src/exercise2.6.cpp
+Invoking: GCC C++ Compiler
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -MMD -MP -MF"src/exercise2.6.d" -MT"src/exercise2.6.o" -o "src/exercise2.6.o" "../src/exercise2.6.cpp"
+Finished building: ../src/exercise2.6.cpp
+ 
+Building target: exercise2.6
+Invoking: MacOS X C++ Linker
+g++  -o "exercise2.6"  ./src/exercise2.6.o   
+Finished building target: exercise2.6
+ 
+
+23:19:50 Build Finished. 0 errors, 0 warnings. (took 864ms)
+

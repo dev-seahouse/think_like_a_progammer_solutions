@@ -1,0 +1,6 @@
+23:58:40 **** Incremental Build of configuration Debug for project decodeMessage ****
+make all 
+make: Nothing to be done for `all'.
+
+23:58:40 Build Finished. 0 errors, 0 warnings. (took 355ms)
+

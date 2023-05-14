@@ -1,0 +1,6 @@
+23:58:47 **** Incremental Build of configuration Debug for project sidewaytriangle ****
+make all 
+make: Nothing to be done for `all'.
+
+23:58:47 Build Finished. 0 errors, 0 warnings. (took 295ms)
+

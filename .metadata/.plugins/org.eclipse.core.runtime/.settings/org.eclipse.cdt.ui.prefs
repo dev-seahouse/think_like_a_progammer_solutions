@@ -1,0 +1,15 @@
+alignConst=true
+content_assist_parameters_background=0,0,0
+content_assist_parameters_foreground=255,255,255
+content_assist_proposals_background=0,0,0
+content_assist_proposals_foreground=255,255,255
+content_assist_proposals_timeout=5000
+eclipse.preferences.version=1
+formatSourceCode=true
+formatter_profile=org.eclipse.cdt.ui.default.kandr_profile
+formatter_settings_version=1
+org.eclipse.cdt.ui.text.custom_code_templates=<?xml version\="1.0" encoding\="UTF-8" standalone\="no"?><templates/>
+sourceHoverBackgroundColor.SystemDefault=false
+spelling_locale_initialized=true
+useAnnotationsPrefPage=true
+useQuickDiffPrefPage=true

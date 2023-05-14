@@ -1,0 +1,55 @@
+//============================================================================
+// Name        : 7_dec_hex_bin.cpp
+// Author      : kenan
+// Version     :
+// Copyright   : Your copyright notice
+// Description : Hello World in C++, Ansi-style
+//============================================================================
+
+#include <iostream>
+using namespace std;
+
+int main() {
+	cout << "Select base to convert from: \n ";
+	cout << "1. Decimal \n 2. Hex \n 3. Bin \n";
+	int inputBase = cin.get() - '0';
+	cin.ignore(); // user press enter
+
+	cout << "Select base to convert to: \n ";
+	cout << "1. Decimal \n 2. Hex \n 3. Bin \n";
+	int outputBase = cin.get() - '0';
+	cin.ignore(); // user press enter
+
+	cout << "Enter the number: \n";
+
+	// convert base n to base 10
+
+	char digitChar = '0';
+	int maxDigitSize = 64 / inputBase;
+	int digitCount = 0;
+	int dec = 0;
+
+
+	while ((digitChar = cin.get() != 10) && digitCount <= maxDigitSize) {
+		cout << "getting char";
+		cout << digitChar;
+//		if (digitChar > 'Z' || digitChar < '0'
+//				|| (digitChar > '9' && digitChar < 'A')) {
+//			throw std::invalid_argument("Invalid input");
+//		}
+
+		int digitNum =
+				digitChar < 'A' ? digitChar - '0' : digitChar - ('A' - 10);
+
+		dec = dec * inputBase + digitNum;
+	}
+
+	cout << dec;
+
+	// convert the number to decimal
+
+
+
+
+	return 0;
+}

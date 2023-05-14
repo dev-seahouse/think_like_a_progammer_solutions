@@ -1,0 +1,6 @@
+02:04:59 **** Incremental Build of configuration Debug for project exercise2.6_bin_to_dec ****
+make all 
+make: Nothing to be done for `all'.
+
+02:04:59 Build Finished. 0 errors, 0 warnings. (took 266ms)
+

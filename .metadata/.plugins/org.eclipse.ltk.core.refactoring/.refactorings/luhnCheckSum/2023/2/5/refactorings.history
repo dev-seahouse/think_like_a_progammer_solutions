@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Rename resource &apos;luhnCheckSum/luhnChecksum&apos; to &apos;luhnChecksum.cpp&apos;" description="Rename resource &apos;luhnChecksum&apos;" flags="7" id="org.eclipse.ltk.core.refactoring.rename.resource" input="luhnChecksum" name="luhnChecksum.cpp" stamp="1675514252262" updateReferences="true"/>
+</session>
