@@ -1,202 +1,33 @@
-22:59:32 **** Build of configuration Debug for project exercise3.5_cipher_to_plain ****
+23:20:17 **** Incremental Build of configuration Debug for project exercise3.8_find_quartile ****
 make all 
-Building file: ../src/exercise3.5_cipher_to_plain.cpp
+make: Nothing to be done for `all'.
+23:20:21 **** Incremental Build of configuration Debug for project exercise3.8_find_quartile ****
+make all 
+make: Nothing to be done for `all'.
+23:20:52 **** Incremental Build of configuration Debug for project exercise3.8_find_quartile ****
+make all 
+Building file: ../src/exercise3.8_find_quartile.cpp
 Invoking: GCC C++ Compiler
-g++ -O0 -g3 -Wall -c -fmessage-length=0 -MMD -MP -MF"src/exercise3.5_cipher_to_plain.d" -MT"src/exercise3.5_cipher_to_plain.o" -o "src/exercise3.5_cipher_to_plain.o" "../src/exercise3.5_cipher_to_plain.cpp"
-Finished building: ../src/exercise3.5_cipher_to_plain.cpp
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -MMD -MP -MF"src/exercise3.8_find_quartile.d" -MT"src/exercise3.8_find_quartile.o" -o "src/exercise3.8_find_quartile.o" "../src/exercise3.8_find_quartile.cpp"
+Finished building: ../src/exercise3.8_find_quartile.cpp
  
-Building target: exercise3.5_cipher_to_plain
+Building target: exercise3.8_find_quartile
 Invoking: MacOS X C++ Linker
-g++  -o "exercise3.5_cipher_to_plain"  ./src/exercise3.5_cipher_to_plain.o   
-Finished building target: exercise3.5_cipher_to_plain
+g++  -o "exercise3.8_find_quartile"  ./src/exercise3.8_find_quartile.o   
+Finished building target: exercise3.8_find_quartile
  
-23:02:09 **** Incremental Build of configuration Debug for project exercise3.5_cipher_to_plain ****
+23:24:34 **** Incremental Build of configuration Debug for project exercise3.8_find_quartile ****
 make all 
-Building file: ../src/exercise3.5_cipher_to_plain.cpp
+make: Nothing to be done for `all'.
+23:25:10 **** Incremental Build of configuration Debug for project exercise3.8_find_quartile ****
+make all 
+Building file: ../src/exercise3.8_find_quartile.cpp
 Invoking: GCC C++ Compiler
-g++ -O0 -g3 -Wall -c -fmessage-length=0 -MMD -MP -MF"src/exercise3.5_cipher_to_plain.d" -MT"src/exercise3.5_cipher_to_plain.o" -o "src/exercise3.5_cipher_to_plain.o" "../src/exercise3.5_cipher_to_plain.cpp"
-Finished building: ../src/exercise3.5_cipher_to_plain.cpp
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -MMD -MP -MF"src/exercise3.8_find_quartile.d" -MT"src/exercise3.8_find_quartile.o" -o "src/exercise3.8_find_quartile.o" "../src/exercise3.8_find_quartile.cpp"
+Finished building: ../src/exercise3.8_find_quartile.cpp
  
-Building target: exercise3.5_cipher_to_plain
+Building target: exercise3.8_find_quartile
 Invoking: MacOS X C++ Linker
-g++  -o "exercise3.5_cipher_to_plain"  ./src/exercise3.5_cipher_to_plain.o   
-Finished building target: exercise3.5_cipher_to_plain
- 
-23:02:37 **** Incremental Build of configuration Debug for project exercise3.4_substitute_cipher ****
-make all 
-make: Nothing to be done for `all'.
-23:02:48 **** Incremental Build of configuration Debug for project exercise3.4_substitute_cipher ****
-make all 
-make: Nothing to be done for `all'.
-23:03:06 **** Incremental Build of configuration Debug for project exercise3.4_substitute_cipher ****
-make all 
-make: Nothing to be done for `all'.
-23:03:13 **** Incremental Build of configuration Debug for project exercise3.4_substitute_cipher ****
-make all 
-make: Nothing to be done for `all'.
-23:03:18 **** Incremental Build of configuration Debug for project exercise3.4_substitute_cipher ****
-make all 
-make: Nothing to be done for `all'.
-23:04:14 **** Incremental Build of configuration Debug for project exercise3.5_cipher_to_plain ****
-make all 
-Building file: ../src/exercise3.5_cipher_to_plain.cpp
-Invoking: GCC C++ Compiler
-g++ -O0 -g3 -Wall -c -fmessage-length=0 -MMD -MP -MF"src/exercise3.5_cipher_to_plain.d" -MT"src/exercise3.5_cipher_to_plain.o" -o "src/exercise3.5_cipher_to_plain.o" "../src/exercise3.5_cipher_to_plain.cpp"
-Finished building: ../src/exercise3.5_cipher_to_plain.cpp
- 
-Building target: exercise3.5_cipher_to_plain
-Invoking: MacOS X C++ Linker
-g++  -o "exercise3.5_cipher_to_plain"  ./src/exercise3.5_cipher_to_plain.o   
-Finished building target: exercise3.5_cipher_to_plain
- 
-23:04:21 **** Incremental Build of configuration Debug for project exercise3.5_cipher_to_plain ****
-make all 
-make: Nothing to be done for `all'.
-00:36:47 **** Incremental Build of configuration Debug for project exercise3.5_cipher_to_plain ****
-make all 
-make: Nothing to be done for `all'.
-00:37:48 **** Incremental Build of configuration Debug for project exercise3.4_substitute_cipher ****
-make all 
-make: Nothing to be done for `all'.
-00:37:58 **** Incremental Build of configuration Debug for project exercise3.5_cipher_to_plain ****
-make all 
-Building file: ../src/exercise3.5_cipher_to_plain.cpp
-Invoking: GCC C++ Compiler
-g++ -O0 -g3 -Wall -c -fmessage-length=0 -MMD -MP -MF"src/exercise3.5_cipher_to_plain.d" -MT"src/exercise3.5_cipher_to_plain.o" -o "src/exercise3.5_cipher_to_plain.o" "../src/exercise3.5_cipher_to_plain.cpp"
-Finished building: ../src/exercise3.5_cipher_to_plain.cpp
- 
-Building target: exercise3.5_cipher_to_plain
-Invoking: MacOS X C++ Linker
-g++  -o "exercise3.5_cipher_to_plain"  ./src/exercise3.5_cipher_to_plain.o   
-Finished building target: exercise3.5_cipher_to_plain
- 
-00:38:18 **** Incremental Build of configuration Debug for project exercise3.5_cipher_to_plain ****
-make all 
-make: Nothing to be done for `all'.
-00:39:33 **** Incremental Build of configuration Debug for project exercise3.5_cipher_to_plain ****
-make all 
-Building file: ../src/exercise3.5_cipher_to_plain.cpp
-Invoking: GCC C++ Compiler
-g++ -O0 -g3 -Wall -c -fmessage-length=0 -MMD -MP -MF"src/exercise3.5_cipher_to_plain.d" -MT"src/exercise3.5_cipher_to_plain.o" -o "src/exercise3.5_cipher_to_plain.o" "../src/exercise3.5_cipher_to_plain.cpp"
-Finished building: ../src/exercise3.5_cipher_to_plain.cpp
- 
-Building target: exercise3.5_cipher_to_plain
-Invoking: MacOS X C++ Linker
-g++  -o "exercise3.5_cipher_to_plain"  ./src/exercise3.5_cipher_to_plain.o   
-Finished building target: exercise3.5_cipher_to_plain
- 
-00:40:13 **** Incremental Build of configuration Debug for project exercise3.5_cipher_to_plain ****
-make all 
-make: Nothing to be done for `all'.
-00:40:40 **** Incremental Build of configuration Debug for project exercise3.5_cipher_to_plain ****
-make all 
-Building file: ../src/exercise3.5_cipher_to_plain.cpp
-Invoking: GCC C++ Compiler
-g++ -O0 -g3 -Wall -c -fmessage-length=0 -MMD -MP -MF"src/exercise3.5_cipher_to_plain.d" -MT"src/exercise3.5_cipher_to_plain.o" -o "src/exercise3.5_cipher_to_plain.o" "../src/exercise3.5_cipher_to_plain.cpp"
-Finished building: ../src/exercise3.5_cipher_to_plain.cpp
- 
-Building target: exercise3.5_cipher_to_plain
-Invoking: MacOS X C++ Linker
-g++  -o "exercise3.5_cipher_to_plain"  ./src/exercise3.5_cipher_to_plain.o   
-Finished building target: exercise3.5_cipher_to_plain
- 
-00:40:59 **** Incremental Build of configuration Debug for project exercise3.5_cipher_to_plain ****
-make all 
-Building file: ../src/exercise3.5_cipher_to_plain.cpp
-Invoking: GCC C++ Compiler
-g++ -O0 -g3 -Wall -c -fmessage-length=0 -MMD -MP -MF"src/exercise3.5_cipher_to_plain.d" -MT"src/exercise3.5_cipher_to_plain.o" -o "src/exercise3.5_cipher_to_plain.o" "../src/exercise3.5_cipher_to_plain.cpp"
-../src/exercise3.5_cipher_to_plain.cpp:21:9: warning: unused variable 'plainTextChar' [-Wunused-variable]
-                        char plainTextChar = inputChar + 64;
-                             ^
-1 warning generated.
-Finished building: ../src/exercise3.5_cipher_to_plain.cpp
- 
-Building target: exercise3.5_cipher_to_plain
-Invoking: MacOS X C++ Linker
-g++  -o "exercise3.5_cipher_to_plain"  ./src/exercise3.5_cipher_to_plain.o   
-Finished building target: exercise3.5_cipher_to_plain
- 
-00:41:20 **** Incremental Build of configuration Debug for project exercise3.5_cipher_to_plain ****
-make all 
-make: Nothing to be done for `all'.
-00:42:17 **** Incremental Build of configuration Debug for project exercise3.5_cipher_to_plain ****
-make all 
-Building file: ../src/exercise3.5_cipher_to_plain.cpp
-Invoking: GCC C++ Compiler
-g++ -O0 -g3 -Wall -c -fmessage-length=0 -MMD -MP -MF"src/exercise3.5_cipher_to_plain.d" -MT"src/exercise3.5_cipher_to_plain.o" -o "src/exercise3.5_cipher_to_plain.o" "../src/exercise3.5_cipher_to_plain.cpp"
-Finished building: ../src/exercise3.5_cipher_to_plain.cpp
- 
-Building target: exercise3.5_cipher_to_plain
-Invoking: MacOS X C++ Linker
-g++  -o "exercise3.5_cipher_to_plain"  ./src/exercise3.5_cipher_to_plain.o   
-Finished building target: exercise3.5_cipher_to_plain
- 
-00:42:36 **** Incremental Build of configuration Debug for project exercise3.5_cipher_to_plain ****
-make all 
-Building file: ../src/exercise3.5_cipher_to_plain.cpp
-Invoking: GCC C++ Compiler
-g++ -O0 -g3 -Wall -c -fmessage-length=0 -MMD -MP -MF"src/exercise3.5_cipher_to_plain.d" -MT"src/exercise3.5_cipher_to_plain.o" -o "src/exercise3.5_cipher_to_plain.o" "../src/exercise3.5_cipher_to_plain.cpp"
-Finished building: ../src/exercise3.5_cipher_to_plain.cpp
- 
-Building target: exercise3.5_cipher_to_plain
-Invoking: MacOS X C++ Linker
-g++  -o "exercise3.5_cipher_to_plain"  ./src/exercise3.5_cipher_to_plain.o   
-Finished building target: exercise3.5_cipher_to_plain
- 
-00:42:46 **** Incremental Build of configuration Debug for project exercise3.5_cipher_to_plain ****
-make all 
-make: Nothing to be done for `all'.
-00:43:08 **** Incremental Build of configuration Debug for project exercise3.5_cipher_to_plain ****
-make all 
-Building file: ../src/exercise3.5_cipher_to_plain.cpp
-Invoking: GCC C++ Compiler
-g++ -O0 -g3 -Wall -c -fmessage-length=0 -MMD -MP -MF"src/exercise3.5_cipher_to_plain.d" -MT"src/exercise3.5_cipher_to_plain.o" -o "src/exercise3.5_cipher_to_plain.o" "../src/exercise3.5_cipher_to_plain.cpp"
-Finished building: ../src/exercise3.5_cipher_to_plain.cpp
- 
-Building target: exercise3.5_cipher_to_plain
-Invoking: MacOS X C++ Linker
-g++  -o "exercise3.5_cipher_to_plain"  ./src/exercise3.5_cipher_to_plain.o   
-Finished building target: exercise3.5_cipher_to_plain
- 
-00:43:50 **** Incremental Build of configuration Debug for project exercise3.4_substitute_cipher ****
-make all 
-Building file: ../src/exercise3.4_substitute_cipher.cpp
-Invoking: GCC C++ Compiler
-g++ -O0 -g3 -Wall -c -fmessage-length=0 -MMD -MP -MF"src/exercise3.4_substitute_cipher.d" -MT"src/exercise3.4_substitute_cipher.o" -o "src/exercise3.4_substitute_cipher.o" "../src/exercise3.4_substitute_cipher.cpp"
-Finished building: ../src/exercise3.4_substitute_cipher.cpp
- 
-Building target: exercise3.4_substitute_cipher
-Invoking: MacOS X C++ Linker
-g++  -o "exercise3.4_substitute_cipher"  ./src/exercise3.4_substitute_cipher.o   
-Finished building target: exercise3.4_substitute_cipher
- 
-00:45:20 **** Incremental Build of configuration Debug for project exercise3.5_cipher_to_plain ****
-make all 
-Building file: ../src/exercise3.5_cipher_to_plain.cpp
-Invoking: GCC C++ Compiler
-g++ -O0 -g3 -Wall -c -fmessage-length=0 -MMD -MP -MF"src/exercise3.5_cipher_to_plain.d" -MT"src/exercise3.5_cipher_to_plain.o" -o "src/exercise3.5_cipher_to_plain.o" "../src/exercise3.5_cipher_to_plain.cpp"
-Finished building: ../src/exercise3.5_cipher_to_plain.cpp
- 
-Building target: exercise3.5_cipher_to_plain
-Invoking: MacOS X C++ Linker
-g++  -o "exercise3.5_cipher_to_plain"  ./src/exercise3.5_cipher_to_plain.o   
-Finished building target: exercise3.5_cipher_to_plain
- 
-00:45:29 **** Incremental Build of configuration Debug for project exercise3.5_cipher_to_plain ****
-make all 
-make: Nothing to be done for `all'.
-00:45:39 **** Incremental Build of configuration Debug for project exercise3.5_cipher_to_plain ****
-make all 
-make: Nothing to be done for `all'.
-01:03:52 **** Incremental Build of configuration Debug for project exercise3.5_cipher_to_plain ****
-make all 
-Building file: ../src/exercise3.5_cipher_to_plain.cpp
-Invoking: GCC C++ Compiler
-g++ -O0 -g3 -Wall -c -fmessage-length=0 -MMD -MP -MF"src/exercise3.5_cipher_to_plain.d" -MT"src/exercise3.5_cipher_to_plain.o" -o "src/exercise3.5_cipher_to_plain.o" "../src/exercise3.5_cipher_to_plain.cpp"
-Finished building: ../src/exercise3.5_cipher_to_plain.cpp
- 
-Building target: exercise3.5_cipher_to_plain
-Invoking: MacOS X C++ Linker
-g++  -o "exercise3.5_cipher_to_plain"  ./src/exercise3.5_cipher_to_plain.o   
-Finished building target: exercise3.5_cipher_to_plain
+g++  -o "exercise3.8_find_quartile"  ./src/exercise3.8_find_quartile.o   
+Finished building target: exercise3.8_find_quartile
  
