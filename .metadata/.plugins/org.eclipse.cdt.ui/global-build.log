@@ -1,33 +1,172 @@
-23:20:17 **** Incremental Build of configuration Debug for project exercise3.8_find_quartile ****
+22:57:01 **** Incremental Build of configuration Debug for project exercise3.9_higest_salary ****
 make all 
-make: Nothing to be done for `all'.
-23:20:21 **** Incremental Build of configuration Debug for project exercise3.8_find_quartile ****
-make all 
-make: Nothing to be done for `all'.
-23:20:52 **** Incremental Build of configuration Debug for project exercise3.8_find_quartile ****
-make all 
-Building file: ../src/exercise3.8_find_quartile.cpp
+Building file: ../src/exercise3.9_higest_salary.cpp
 Invoking: GCC C++ Compiler
-g++ -O0 -g3 -Wall -c -fmessage-length=0 -MMD -MP -MF"src/exercise3.8_find_quartile.d" -MT"src/exercise3.8_find_quartile.o" -o "src/exercise3.8_find_quartile.o" "../src/exercise3.8_find_quartile.cpp"
-Finished building: ../src/exercise3.8_find_quartile.cpp
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -MMD -MP -MF"src/exercise3.9_higest_salary.d" -MT"src/exercise3.9_higest_salary.o" -o "src/exercise3.9_higest_salary.o" "../src/exercise3.9_higest_salary.cpp"
+../src/exercise3.9_higest_salary.cpp:23:6: warning: unused variable 'highest' [-Wunused-variable]
+        int highest = 0;
+            ^
+1 warning generated.
+Finished building: ../src/exercise3.9_higest_salary.cpp
  
-Building target: exercise3.8_find_quartile
+Building target: exercise3.9_higest_salary
 Invoking: MacOS X C++ Linker
-g++  -o "exercise3.8_find_quartile"  ./src/exercise3.8_find_quartile.o   
-Finished building target: exercise3.8_find_quartile
+g++  -o "exercise3.9_higest_salary"  ./src/exercise3.9_higest_salary.o   
+Finished building target: exercise3.9_higest_salary
  
-23:24:34 **** Incremental Build of configuration Debug for project exercise3.8_find_quartile ****
+22:57:17 **** Incremental Build of configuration Debug for project exercise3.9_higest_salary ****
+make all 
+Building file: ../src/exercise3.9_higest_salary.cpp
+Invoking: GCC C++ Compiler
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -MMD -MP -MF"src/exercise3.9_higest_salary.d" -MT"src/exercise3.9_higest_salary.o" -o "src/exercise3.9_higest_salary.o" "../src/exercise3.9_higest_salary.cpp"
+Finished building: ../src/exercise3.9_higest_salary.cpp
+ 
+Building target: exercise3.9_higest_salary
+Invoking: MacOS X C++ Linker
+g++  -o "exercise3.9_higest_salary"  ./src/exercise3.9_higest_salary.o   
+Finished building target: exercise3.9_higest_salary
+ 
+22:59:27 **** Incremental Build of configuration Debug for project exercise3.9_higest_salary ****
 make all 
 make: Nothing to be done for `all'.
-23:25:10 **** Incremental Build of configuration Debug for project exercise3.8_find_quartile ****
+22:59:52 **** Incremental Build of configuration Debug for project exercise3.9_higest_salary ****
 make all 
-Building file: ../src/exercise3.8_find_quartile.cpp
+Building file: ../src/exercise3.9_higest_salary.cpp
 Invoking: GCC C++ Compiler
-g++ -O0 -g3 -Wall -c -fmessage-length=0 -MMD -MP -MF"src/exercise3.8_find_quartile.d" -MT"src/exercise3.8_find_quartile.o" -o "src/exercise3.8_find_quartile.o" "../src/exercise3.8_find_quartile.cpp"
-Finished building: ../src/exercise3.8_find_quartile.cpp
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -MMD -MP -MF"src/exercise3.9_higest_salary.d" -MT"src/exercise3.9_higest_salary.o" -o "src/exercise3.9_higest_salary.o" "../src/exercise3.9_higest_salary.cpp"
+Finished building: ../src/exercise3.9_higest_salary.cpp
  
-Building target: exercise3.8_find_quartile
+Building target: exercise3.9_higest_salary
 Invoking: MacOS X C++ Linker
-g++  -o "exercise3.8_find_quartile"  ./src/exercise3.8_find_quartile.o   
-Finished building target: exercise3.8_find_quartile
+g++  -o "exercise3.9_higest_salary"  ./src/exercise3.9_higest_salary.o   
+Finished building target: exercise3.9_higest_salary
+ 
+23:02:08 **** Incremental Build of configuration Debug for project exercise3.9_higest_salary ****
+make all 
+Building file: ../src/exercise3.9_higest_salary.cpp
+Invoking: GCC C++ Compiler
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -MMD -MP -MF"src/exercise3.9_higest_salary.d" -MT"src/exercise3.9_higest_salary.o" -o "src/exercise3.9_higest_salary.o" "../src/exercise3.9_higest_salary.cpp"
+Finished building: ../src/exercise3.9_higest_salary.cpp
+ 
+Building target: exercise3.9_higest_salary
+Invoking: MacOS X C++ Linker
+g++  -o "exercise3.9_higest_salary"  ./src/exercise3.9_higest_salary.o   
+Finished building target: exercise3.9_higest_salary
+ 
+23:02:19 **** Incremental Build of configuration Debug for project exercise3.9_higest_salary ****
+make all 
+make: Nothing to be done for `all'.
+23:02:31 **** Incremental Build of configuration Debug for project exercise3.9_higest_salary ****
+make all 
+Building file: ../src/exercise3.9_higest_salary.cpp
+Invoking: GCC C++ Compiler
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -MMD -MP -MF"src/exercise3.9_higest_salary.d" -MT"src/exercise3.9_higest_salary.o" -o "src/exercise3.9_higest_salary.o" "../src/exercise3.9_higest_salary.cpp"
+Finished building: ../src/exercise3.9_higest_salary.cpp
+ 
+Building target: exercise3.9_higest_salary
+Invoking: MacOS X C++ Linker
+g++  -o "exercise3.9_higest_salary"  ./src/exercise3.9_higest_salary.o   
+Finished building target: exercise3.9_higest_salary
+ 
+23:02:55 **** Incremental Build of configuration Debug for project exercise3.9_higest_salary ****
+make all 
+make: Nothing to be done for `all'.
+23:04:44 **** Incremental Build of configuration Debug for project exercise3.9_higest_salary ****
+make all 
+Building file: ../src/exercise3.9_higest_salary.cpp
+Invoking: GCC C++ Compiler
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -MMD -MP -MF"src/exercise3.9_higest_salary.d" -MT"src/exercise3.9_higest_salary.o" -o "src/exercise3.9_higest_salary.o" "../src/exercise3.9_higest_salary.cpp"
+Finished building: ../src/exercise3.9_higest_salary.cpp
+ 
+Building target: exercise3.9_higest_salary
+Invoking: MacOS X C++ Linker
+g++  -o "exercise3.9_higest_salary"  ./src/exercise3.9_higest_salary.o   
+Finished building target: exercise3.9_higest_salary
+ 
+23:05:05 **** Incremental Build of configuration Debug for project exercise3.9_higest_salary ****
+make all 
+make: Nothing to be done for `all'.
+23:05:37 **** Incremental Build of configuration Debug for project exercise3.9_higest_salary ****
+make all 
+Building file: ../src/exercise3.9_higest_salary.cpp
+Invoking: GCC C++ Compiler
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -MMD -MP -MF"src/exercise3.9_higest_salary.d" -MT"src/exercise3.9_higest_salary.o" -o "src/exercise3.9_higest_salary.o" "../src/exercise3.9_higest_salary.cpp"
+Finished building: ../src/exercise3.9_higest_salary.cpp
+ 
+Building target: exercise3.9_higest_salary
+Invoking: MacOS X C++ Linker
+g++  -o "exercise3.9_higest_salary"  ./src/exercise3.9_higest_salary.o   
+Finished building target: exercise3.9_higest_salary
+ 
+23:06:07 **** Incremental Build of configuration Debug for project exercise3.9_higest_salary ****
+make all 
+Building file: ../src/exercise3.9_higest_salary.cpp
+Invoking: GCC C++ Compiler
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -MMD -MP -MF"src/exercise3.9_higest_salary.d" -MT"src/exercise3.9_higest_salary.o" -o "src/exercise3.9_higest_salary.o" "../src/exercise3.9_higest_salary.cpp"
+Finished building: ../src/exercise3.9_higest_salary.cpp
+ 
+Building target: exercise3.9_higest_salary
+Invoking: MacOS X C++ Linker
+g++  -o "exercise3.9_higest_salary"  ./src/exercise3.9_higest_salary.o   
+Finished building target: exercise3.9_higest_salary
+ 
+23:07:21 **** Incremental Build of configuration Debug for project exercise3.9_higest_salary ****
+make all 
+Building file: ../src/exercise3.9_higest_salary.cpp
+Invoking: GCC C++ Compiler
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -MMD -MP -MF"src/exercise3.9_higest_salary.d" -MT"src/exercise3.9_higest_salary.o" -o "src/exercise3.9_higest_salary.o" "../src/exercise3.9_higest_salary.cpp"
+Finished building: ../src/exercise3.9_higest_salary.cpp
+ 
+Building target: exercise3.9_higest_salary
+Invoking: MacOS X C++ Linker
+g++  -o "exercise3.9_higest_salary"  ./src/exercise3.9_higest_salary.o   
+Finished building target: exercise3.9_higest_salary
+ 
+23:08:27 **** Incremental Build of configuration Debug for project exercise3.9_higest_salary ****
+make all 
+Building file: ../src/exercise3.9_higest_salary.cpp
+Invoking: GCC C++ Compiler
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -MMD -MP -MF"src/exercise3.9_higest_salary.d" -MT"src/exercise3.9_higest_salary.o" -o "src/exercise3.9_higest_salary.o" "../src/exercise3.9_higest_salary.cpp"
+Finished building: ../src/exercise3.9_higest_salary.cpp
+ 
+Building target: exercise3.9_higest_salary
+Invoking: MacOS X C++ Linker
+g++  -o "exercise3.9_higest_salary"  ./src/exercise3.9_higest_salary.o   
+Finished building target: exercise3.9_higest_salary
+ 
+23:09:29 **** Incremental Build of configuration Debug for project exercise3.9_higest_salary ****
+make all 
+Building file: ../src/exercise3.9_higest_salary.cpp
+Invoking: GCC C++ Compiler
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -MMD -MP -MF"src/exercise3.9_higest_salary.d" -MT"src/exercise3.9_higest_salary.o" -o "src/exercise3.9_higest_salary.o" "../src/exercise3.9_higest_salary.cpp"
+Finished building: ../src/exercise3.9_higest_salary.cpp
+ 
+Building target: exercise3.9_higest_salary
+Invoking: MacOS X C++ Linker
+g++  -o "exercise3.9_higest_salary"  ./src/exercise3.9_higest_salary.o   
+Finished building target: exercise3.9_higest_salary
+ 
+23:10:05 **** Incremental Build of configuration Debug for project exercise3.9_higest_salary ****
+make all 
+Building file: ../src/exercise3.9_higest_salary.cpp
+Invoking: GCC C++ Compiler
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -MMD -MP -MF"src/exercise3.9_higest_salary.d" -MT"src/exercise3.9_higest_salary.o" -o "src/exercise3.9_higest_salary.o" "../src/exercise3.9_higest_salary.cpp"
+Finished building: ../src/exercise3.9_higest_salary.cpp
+ 
+Building target: exercise3.9_higest_salary
+Invoking: MacOS X C++ Linker
+g++  -o "exercise3.9_higest_salary"  ./src/exercise3.9_higest_salary.o   
+Finished building target: exercise3.9_higest_salary
+ 
+23:10:43 **** Incremental Build of configuration Debug for project exercise3.9_higest_salary ****
+make all 
+Building file: ../src/exercise3.9_higest_salary.cpp
+Invoking: GCC C++ Compiler
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -MMD -MP -MF"src/exercise3.9_higest_salary.d" -MT"src/exercise3.9_higest_salary.o" -o "src/exercise3.9_higest_salary.o" "../src/exercise3.9_higest_salary.cpp"
+Finished building: ../src/exercise3.9_higest_salary.cpp
+ 
+Building target: exercise3.9_higest_salary
+Invoking: MacOS X C++ Linker
+g++  -o "exercise3.9_higest_salary"  ./src/exercise3.9_higest_salary.o   
+Finished building target: exercise3.9_higest_salary
  
