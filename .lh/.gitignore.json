@@ -3,7 +3,7 @@
     "activeCommit": 0,
     "commits": [
         {
-            "activePatchIndex": 15,
+            "activePatchIndex": 16,
             "patches": [
                 {
                     "date": 1693932493614,
@@ -68,6 +68,10 @@
                 {
                     "date": 1693934572681,
                     "content": "Index: \n===================================================================\n--- \n+++ \n@@ -4,9 +4,8 @@\n **/Backup/\n **/*.bak\n **/.~lock.*\n **/.project\n-**/.cproject\n **/.settings/org.eclipse.cdt.codan.core.prefs\n **/.settings/org.eclipse.core.resources.prefs\n **/.settings/org.eclipse.core.runtime.prefs\n **/.buildpath\n"
+                },
+                {
+                    "date": 1693934760005,
+                    "content": "Index: \n===================================================================\n--- \n+++ \n@@ -4,8 +4,9 @@\n **/Backup/\n **/*.bak\n **/.~lock.*\n **/.project\n+**/.cproject\n **/.settings/org.eclipse.cdt.codan.core.prefs\n **/.settings/org.eclipse.core.resources.prefs\n **/.settings/org.eclipse.core.runtime.prefs\n **/.buildpath\n"
                 }
             ],
             "date": 1693932493614,
