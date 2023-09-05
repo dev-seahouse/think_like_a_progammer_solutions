@@ -1,9 +1,0 @@
-00:39:01 **** Incremental Build of configuration Debug for project exercise2.3 ****
-make all 
-Cannot run program "make": Launching failed
-
-Error: Program "make" not found in PATH
-PATH=[C:/Program Files/Eclipse 4.28.0/eclipse//plugins/org.eclipse.justj.openjdk.hotspot.jre.full.win32.x86_64_17.0.7.v20230425-1502/jre/bin/server;C:/Program Files/Eclipse 4.28.0/eclipse//plugins/org.eclipse.justj.openjdk.hotspot.jre.full.win32.x86_64_17.0.7.v20230425-1502/jre/bin;C:\Python311\Scripts\;C:\Python311\;C:\Windows\system32;C:\Windows;C:\Windows\System32\Wbem;C:\Windows\System32\WindowsPowerShell\v1.0\;C:\Windows\System32\OpenSSH\;C:\Program Files\NVIDIA Corporation\NVIDIA NvDLISR;C:\Program Files (x86)\NVIDIA Corporation\PhysX\Common;C:\ProgramData\chocolatey\bin;C:\ProgramData\chocolatey\lib\winlibs\tools\mingw64\bin;C:\Program Files\PowerShell\7\;%NVM_HOME%;%NVM_SYMLINK%;C:\Program Files\Docker\Docker\resources\bin;C:\Program Files\Git\cmd;C:\Users\xinke\.console-ninja\.bin;C:\Users\xinke\AppData\Local\Microsoft\WindowsApps;C:\Users\xinke\AppData\Local\Programs\Microsoft VS Code\bin;C:\Users\xinke\AppData\Local\JetBrains\Toolbox\scripts;C:\ProgramData\chocolatey\lib\mingw\tools\install\mingw64\bin;C:\Users\xinke\AppData\Local\Programs\Microsoft VS Code Insiders\bin;C:\ProgramData\nvm;C:\Program Files\nodejs;C:\Windows\system32]
-
-00:39:01 Build Failed. 1 errors, 0 warnings. (took 54ms)
-

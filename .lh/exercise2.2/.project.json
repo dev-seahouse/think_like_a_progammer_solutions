@@ -1,0 +1,18 @@
+{
+    "sourceFile": "exercise2.2/.project",
+    "activeCommit": 0,
+    "commits": [
+        {
+            "activePatchIndex": 0,
+            "patches": [
+                {
+                    "date": 1693933461410,
+                    "content": "Index: \n===================================================================\n--- \n+++ \n"
+                }
+            ],
+            "date": 1693933461410,
+            "name": "Commit-0",
+            "content": "<?xml version=\"1.0\" encoding=\"UTF-8\"?>\n<projectDescription>\n\t<name>exercise2.2</name>\n\t<comment></comment>\n\t<projects>\n\t</projects>\n\t<buildSpec>\n\t\t<buildCommand>\n\t\t\t<name>org.eclipse.cdt.managedbuilder.core.genmakebuilder</name>\n\t\t\t<triggers>clean,full,incremental,</triggers>\n\t\t\t<arguments>\n\t\t\t</arguments>\n\t\t</buildCommand>\n\t\t<buildCommand>\n\t\t\t<name>org.eclipse.cdt.managedbuilder.core.ScannerConfigBuilder</name>\n\t\t\t<triggers>full,incremental,</triggers>\n\t\t\t<arguments>\n\t\t\t</arguments>\n\t\t</buildCommand>\n\t</buildSpec>\n\t<natures>\n\t\t<nature>org.eclipse.cdt.core.cnature</nature>\n\t\t<nature>org.eclipse.cdt.core.ccnature</nature>\n\t\t<nature>org.eclipse.cdt.managedbuilder.core.managedBuildNature</nature>\n\t\t<nature>org.eclipse.cdt.managedbuilder.core.ScannerConfigNature</nature>\n\t</natures>\n</projectDescription>\n"
+        }
+    ]
+}
