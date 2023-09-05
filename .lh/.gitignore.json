@@ -3,11 +3,35 @@
     "activeCommit": 0,
     "commits": [
         {
-            "activePatchIndex": 0,
+            "activePatchIndex": 6,
             "patches": [
                 {
                     "date": 1693932493614,
                     "content": "Index: \n===================================================================\n--- \n+++ \n"
+                },
+                {
+                    "date": 1693932637482,
+                    "content": "Index: \n===================================================================\n--- \n+++ \n@@ -0,0 +1,8 @@\n+**/Debug/\r\n+**/Release/\r\n+**/html/\r\n+**/Backup/\r\n+**/*.bak\r\n+**/.~lock.*\r\n+.project\r\n+.cproject\r\n"
+                },
+                {
+                    "date": 1693932647254,
+                    "content": "Index: \n===================================================================\n--- \n+++ \n@@ -0,0 +1,11 @@\n+**/Debug/\r\n+**/Release/\r\n+**/html/\r\n+**/Backup/\r\n+**/*.bak\r\n+**/.~lock.*\r\n+.project\r\n+.cproject\r\n+.settings/org.eclipse.cdt.codan.core.prefs   <- CDT support stuff\r\n+.settings/org.eclipse.core.resources.prefs   <- file encodings\r\n+.settings/org.eclipse.core.runtime.prefs     <- line terminators\r\n"
+                },
+                {
+                    "date": 1693932653128,
+                    "content": "Index: \n===================================================================\n--- \n+++ \n@@ -0,0 +1,11 @@\n+**/Debug/\r\n+**/Release/\r\n+**/html/\r\n+**/Backup/\r\n+**/*.bak\r\n+**/.~lock.*\r\n+.project\r\n+.cproject\r\n+.settings/org.eclipse.cdt.codan.core.prefs  \r\n+.settings/org.eclipse.core.resources.prefs  \r\n+.settings/org.eclipse.core.runtime.prefs     <- line terminators\r\n"
+                },
+                {
+                    "date": 1693932659357,
+                    "content": "Index: \n===================================================================\n--- \n+++ \n@@ -0,0 +1,11 @@\n+**/Debug/\r\n+**/Release/\r\n+**/html/\r\n+**/Backup/\r\n+**/*.bak\r\n+**/.~lock.*\r\n+.project\r\n+.cproject\r\n+.settings/org.eclipse.cdt.codan.core.prefs\r\n+.settings/org.eclipse.core.resources.prefs\r\n+.settings/org.eclipse.core.runtime.prefs\r\n"
+                },
+                {
+                    "date": 1693932669358,
+                    "content": "Index: \n===================================================================\n--- \n+++ \n@@ -8,4 +8,6 @@\n .cproject\r\n .settings/org.eclipse.cdt.codan.core.prefs\r\n .settings/org.eclipse.core.resources.prefs\r\n .settings/org.eclipse.core.runtime.prefs\r\n+.buildpath \r\n+\r\n"
+                },
+                {
+                    "date": 1693932677111,
+                    "content": "Index: \n===================================================================\n--- \n+++ \n@@ -0,0 +1,14 @@\n+**/Debug/\r\n+**/Release/\r\n+**/html/\r\n+**/Backup/\r\n+**/*.bak\r\n+**/.~lock.*\r\n+.project\r\n+.cproject\r\n+.settings/org.eclipse.cdt.codan.core.prefs\r\n+.settings/org.eclipse.core.resources.prefs\r\n+.settings/org.eclipse.core.runtime.prefs\r\n+.buildpath\r\n+.settings/org.eclipse.cdt.core.prefs\r\n+\r\n"
                 }
             ],
             "date": 1693932493614,
