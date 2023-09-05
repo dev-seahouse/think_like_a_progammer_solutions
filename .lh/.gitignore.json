@@ -3,7 +3,7 @@
     "activeCommit": 0,
     "commits": [
         {
-            "activePatchIndex": 12,
+            "activePatchIndex": 15,
             "patches": [
                 {
                     "date": 1693932493614,
@@ -56,6 +56,18 @@
                 {
                     "date": 1693933801338,
                     "content": "Index: \n===================================================================\n--- \n+++ \n@@ -6,10 +6,10 @@\n **/.~lock.*\n **/.project\n **/.cproject\n **/.settings/org.eclipse.cdt.codan.core.prefs\n-.settings/org.eclipse.core.resources.prefs\n-.settings/org.eclipse.core.runtime.prefs\n+**/.settings/org.eclipse.core.resources.prefs\n+**/.settings/org.eclipse.core.runtime.prefs\n **/.buildpath\n **/.settings/org.eclipse.cdt.core.prefs\n **/.metadata/\n \n"
+                },
+                {
+                    "date": 1693934560109,
+                    "content": "Index: \n===================================================================\n--- \n+++ \n@@ -4,9 +4,8 @@\n **/Backup/\n **/*.bak\n **/.~lock.*\n **/.project\n-**/.cproject\n **/.settings/org.eclipse.cdt.codan.core.prefs\n **/.settings/org.eclipse.core.resources.prefs\n **/.settings/org.eclipse.core.runtime.prefs\n **/.buildpath\n"
+                },
+                {
+                    "date": 1693934567280,
+                    "content": "Index: \n===================================================================\n--- \n+++ \n@@ -4,8 +4,9 @@\n **/Backup/\n **/*.bak\n **/.~lock.*\n **/.project\n+**/.cproject\n **/.settings/org.eclipse.cdt.codan.core.prefs\n **/.settings/org.eclipse.core.resources.prefs\n **/.settings/org.eclipse.core.runtime.prefs\n **/.buildpath\n"
+                },
+                {
+                    "date": 1693934572681,
+                    "content": "Index: \n===================================================================\n--- \n+++ \n@@ -4,9 +4,8 @@\n **/Backup/\n **/*.bak\n **/.~lock.*\n **/.project\n-**/.cproject\n **/.settings/org.eclipse.cdt.codan.core.prefs\n **/.settings/org.eclipse.core.resources.prefs\n **/.settings/org.eclipse.core.runtime.prefs\n **/.buildpath\n"
                 }
             ],
             "date": 1693932493614,
