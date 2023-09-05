@@ -1,0 +1,59 @@
+//============================================================================
+// Name        : chapter3_demo1_var_len_str_manipulation.cpp
+// Author      : kenan
+// Version     :
+// Copyright   : Your copyright notice
+// Description : Hello World in C++, Ansi-style
+//============================================================================
+
+#include <iostream>
+using namespace std;
+
+typedef char *arrayString;
+
+char charAt(arrayString s, int position);
+void append(arrayString &s, char c);
+void concatenate(arrayString &s, arrayString s2)
+void appendTester();
+int length(arrayString s);
+
+int main() {
+	appendTester();
+}
+
+char charAt(arrayString s, int position) {
+	return s[position];
+}
+
+// & allows you to get memory address of statically allocated variable
+void append(arrayString &s, char c) {
+	int oldLength = length(s);
+
+	arrayString newStr = new char[oldLength + 2]; // space for +1 char and null (0)
+	for (int i = 0; i < oldLength; i++) {
+		newStr[i] = s[i];
+	}
+	newStr[oldLength] = c;
+	newStr[oldLength + 1] = 0;
+	delete[] s; // special syntax for deleting dynamic allocated array
+	s = newStr;
+}
+
+int length(arrayString s) {
+	int count = 0;
+	while (s[count] != 0) {
+		count++;
+	}
+	return count;
+}
+
+void appendTester() {
+	arrayString a = new char[5];
+	a[0] = 't';
+	a[1] = 'e';
+	a[2] = 's';
+	a[3] = 't';
+	a[4] = 0; // 0 represents null in ascII and other char code systems  and used as end of line in c and c++;
+	append(a, '!');
+	cout << a << "\n";
+}

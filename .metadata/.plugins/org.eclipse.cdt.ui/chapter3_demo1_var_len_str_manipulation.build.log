@@ -1,0 +1,7 @@
+00:17:16 **** Rebuild of configuration Debug for project chapter3_demo1_var_len_str_manipulation ****
+Info: Internal Builder is used for build
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\chapter3_demo1_var_len_str_manipulation.o" "..\\src\\chapter3_demo1_var_len_str_manipulation.cpp" 
+g++ -o chapter3_demo1_var_len_str_manipulation.exe "src\\chapter3_demo1_var_len_str_manipulation.o" 
+
+00:17:17 Build Finished. 0 errors, 0 warnings. (took 517ms)
+
