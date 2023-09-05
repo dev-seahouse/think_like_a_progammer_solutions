@@ -61,7 +61,7 @@ int main() {
 			switch (number) {
 			case 1:
 				outputChar = '!';
-			break;
+				break;
 			case 2:
 				outputChar = '?';
 				break;
@@ -126,9 +126,4 @@ void program1() {
 		cout << "Number entered" << number << "\n";
 	}
 }
-
-
-
-
-
 

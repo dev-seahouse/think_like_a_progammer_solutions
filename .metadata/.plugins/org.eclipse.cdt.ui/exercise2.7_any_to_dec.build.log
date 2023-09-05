@@ -1,19 +1,9 @@
-12:15:40 **** Incremental Build of configuration Debug for project exercise2.7_any_to_dec ****
+23:33:13 **** Build of configuration Debug for project exercise2.7_any_to_dec ****
 make all 
-Building file: ../src/exercise2.7_any_to_dec.cpp
-Invoking: GCC C++ Compiler
-g++ -O0 -g3 -Wall -c -fmessage-length=0 -MMD -MP -MF"src/exercise2.7_any_to_dec.d" -MT"src/exercise2.7_any_to_dec.o" -o "src/exercise2.7_any_to_dec.o" "../src/exercise2.7_any_to_dec.cpp"
-../src/exercise2.7_any_to_dec.cpp:36:1: warning: non-void function does not return a value [-Wreturn-type]
-}
-^
-1 warning generated.
-Finished building: ../src/exercise2.7_any_to_dec.cpp
- 
-Building target: exercise2.7_any_to_dec
-Invoking: MacOS X C++ Linker
-g++  -o "exercise2.7_any_to_dec"  ./src/exercise2.7_any_to_dec.o   
-Finished building target: exercise2.7_any_to_dec
- 
+Cannot run program "make": Launching failed
 
-12:15:42 Build Finished. 0 errors, 1 warnings. (took 2s.363ms)
+Error: Program "make" not found in PATH
+PATH=[C:/Program Files/Eclipse 4.28.0/eclipse//plugins/org.eclipse.justj.openjdk.hotspot.jre.full.win32.x86_64_17.0.7.v20230425-1502/jre/bin/server;C:/Program Files/Eclipse 4.28.0/eclipse//plugins/org.eclipse.justj.openjdk.hotspot.jre.full.win32.x86_64_17.0.7.v20230425-1502/jre/bin;C:\Python311\Scripts\;C:\Python311\;C:\Windows\system32;C:\Windows;C:\Windows\System32\Wbem;C:\Windows\System32\WindowsPowerShell\v1.0\;C:\Windows\System32\OpenSSH\;C:\Program Files\NVIDIA Corporation\NVIDIA NvDLISR;C:\Program Files (x86)\NVIDIA Corporation\PhysX\Common;C:\ProgramData\chocolatey\bin;C:\ProgramData\chocolatey\lib\winlibs\tools\mingw64\bin;C:\Program Files\PowerShell\7\;%NVM_HOME%;%NVM_SYMLINK%;C:\Program Files\Docker\Docker\resources\bin;C:\Program Files\Git\cmd;C:\Users\xinke\.console-ninja\.bin;C:\Users\xinke\AppData\Local\Microsoft\WindowsApps;C:\Users\xinke\AppData\Local\Programs\Microsoft VS Code\bin;C:\Users\xinke\AppData\Local\JetBrains\Toolbox\scripts;C:\ProgramData\chocolatey\lib\mingw\tools\install\mingw64\bin;C:\Users\xinke\AppData\Local\Programs\Microsoft VS Code Insiders\bin;C:\ProgramData\nvm;C:\Program Files\nodejs;C:\Windows\system32]
+
+23:33:13 Build Failed. 1 errors, 0 warnings. (took 51ms)
 

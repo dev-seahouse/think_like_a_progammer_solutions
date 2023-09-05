@@ -1,5 +1,4 @@
-PHPReadOccurrenceIndicationColor=97,97,97
-PHPWriteOccurrenceIndicationColor=97,97,97
+comment_stylePreferences=NONE
+comment_text=false
 eclipse.preferences.version=1
-javaScriptOccurrenceIndicationColor=97,97,97
 pydevOccurrenceIndicationColor=97,97,97

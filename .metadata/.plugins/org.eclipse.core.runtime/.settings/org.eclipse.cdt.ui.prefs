@@ -1,4 +1,5 @@
 alignConst=true
+content_assist_category_order=org.eclipse.cdt.ui.templateProposalCategory\:0\u0000org.eclipse.cdt.ui.parserProposalCategory\:1\u0000org.eclipse.cdt.ui.helpProposalCategory\:2\u0000org.eclipse.cdt.ui.textProposalCategory\:65538\u0000
 content_assist_parameters_background=0,0,0
 content_assist_parameters_foreground=255,255,255
 content_assist_proposals_background=0,0,0
