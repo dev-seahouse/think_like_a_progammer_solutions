@@ -11,4 +11,5 @@
 **/.buildpath
 **/.settings/org.eclipse.cdt.core.prefs
 **/.metadata/
+**/language.settings.xml
 
