@@ -15,7 +15,7 @@ int main() {
 			'A', 'B', 'C', 'D', 'E', 'F', 'G', 'H', 'I', 'J', 'K', 'L', 'M',
 			'N', 'O', 'P', 'Q', };
 
-	char inputChar = INFINITY;
+	char inputChar = -1;
 
 	cout << "Enter PLAIN TEXT consist of only upper case characters , and ."
 			<< endl;

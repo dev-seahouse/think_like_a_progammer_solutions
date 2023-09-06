@@ -7,13 +7,14 @@
 //============================================================================
 
 #include <iostream>
+#include <cmath>
 using namespace std;
 
 int findCharPosition(const char[], int, char);
 
 int main() {
 
-	char inputChar = INFINITY;
+	char inputChar = -1;
 
 	const char cipherChars[] = { '1', '2', '3', '4', '5', '6', '7', '8', '9',
 			'A', 'B', 'C', 'D', 'E', 'F', 'G', 'H', 'I', 'J', 'K', 'L', 'M',

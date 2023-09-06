@@ -6,7 +6,12 @@
 // Description : Hello World in C++, Ansi-style
 //============================================================================
 
+#include <cmath>
+#include<ctime>
 #include <iostream>
+#include <cstdlib>
+#include <iostream>
+
 using namespace std;
 
 int main() {
@@ -32,7 +37,7 @@ int main() {
 		cipherCharSet[randomIdx] = USED_CHAR;
 	}
 
-	char inputChar = INFINITY;
+	char inputChar = -1;
 
 	cout << "Enter PLAIN TEXT consist of only upper case characters , and ."
 			<< endl;
