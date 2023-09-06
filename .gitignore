@@ -1,3 +1,4 @@
+.lh/
 **/Debug/
 **/Release/
 **/html/
@@ -13,5 +14,4 @@
 **/.metadata/
 **/.settings/
 **/language.settings.xml
-.lh
 
