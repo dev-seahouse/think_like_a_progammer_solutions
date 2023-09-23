@@ -21,10 +21,10 @@ using namespace std;
 struct listNode {
 	int studentNum;
 	int grade;
-	listNode* next;
+	listNode *next;
 };
 
-typedef listNode* studentCollection;
+typedef listNode *studentCollection;
 
 void addRecord(studentCollection&, int, int);
 double averageRecord(studentCollection);
@@ -35,26 +35,26 @@ int main() {
 	cout << averageRecord(sc);
 }
 
-void addRecord(studentCollection& sc, int stuNum, int gr) {
-	listNode* newNode = new listNode;
-	newNode -> studentNum = stuNum;
-	newNode -> grade = gr;
-	newNode -> next = sc;
+void addRecord(studentCollection &sc, int stuNum, int gr) {
+	listNode *newNode = new listNode;
+	newNode->studentNum = stuNum;
+	newNode->grade = gr;
+	newNode->next = sc;
 	sc = newNode;
 	newNode = NULL;
 }
 
-double averageRecord(studentCollection sc){
+double averageRecord(studentCollection sc) {
 	int count = 0;
 	double sum = 0;
-	listNode* loopPtr = sc;
+	listNode *loopPtr = sc;
 
-	while (loopPtr!=NULL) {
+	while (loopPtr != NULL) {
 		sum += loopPtr->grade;
 		count++;
 		loopPtr = sc->next;
 	}
 
-	return count <=1 ? sum : sum/count;
+	return count <= 1 ? sum : sum / count;
 }
 
