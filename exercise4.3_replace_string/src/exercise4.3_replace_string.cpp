@@ -64,6 +64,7 @@ arrayString replaceString(arrayString &source, arrayString target,
 			temp[newLen] = 0;
 			delete[] source;
 			source = temp;
+			temp = NULL;
 		}
 
 		i++;

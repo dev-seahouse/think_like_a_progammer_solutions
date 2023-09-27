@@ -32,7 +32,9 @@ double averageRecord(studentCollection);
 int main() {
 	studentCollection sc = NULL;
 	addRecord(sc, 1274, 81);
-	cout << averageRecord(sc);
+
+	double res = averageRecord(sc);
+	cout << res;
 }
 
 void addRecord(studentCollection &sc, int stuNum, int gr) {
@@ -41,7 +43,6 @@ void addRecord(studentCollection &sc, int stuNum, int gr) {
 	newNode->grade = gr;
 	newNode->next = sc;
 	sc = newNode;
-	newNode = NULL;
 }
 
 double averageRecord(studentCollection sc) {
@@ -52,9 +53,11 @@ double averageRecord(studentCollection sc) {
 	while (loopPtr != NULL) {
 		sum += loopPtr->grade;
 		count++;
-		loopPtr = sc->next;
+		loopPtr = loopPtr->next;
 	}
 
-	return count <= 1 ? sum : sum / count;
+	double average = sum / count;
+	return average;
+
 }
 
